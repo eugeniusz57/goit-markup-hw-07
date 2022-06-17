@@ -489,6 +489,7 @@ img {
 
 .checkbox__link {
   color: #2196f3;
+  text-decoration: underline;
 }
 
 .checkbox__link:hover, .checkbox__link:focus {
